@@ -1,175 +1,186 @@
 {
-  "basics": {
-    "name": "Anthony Wada",
-    "label": "Student",
-    "picture": "https://wadajun.github.io/images/anthony.jpg",
-    "email": "wadaa@hawaii.edu",
-    "phone": "808-497-2492",
-    "website": "https://wadajun.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information System in the Shidler College of Business at the University of Hawaii. I am hoping to graduate in Spring 2022",
-    "location": {
-      "address": "",
-      "postalCode": "96813",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "wadajun",
-        "url": "http://github.com/wadajun"
+   "basics":{
+      "name":"Anthony Wada",
+      "label":"Student",
+      "picture":"https://wadajun.github.io/images/anthony.jpg",
+      "email":"wadaa@hawaii.edu",
+      "phone":"808-497-2492",
+      "website":"https://wadajun.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information System in the Shidler College of Business at the University of Hawaii. I am hoping to graduate in Spring 2022",
+      "location":{
+         "address":"",
+         "postalCode":"96813",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
       },
-    ]
-  },
-  "interests": [
-    {
-      "name": "Music",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
+      "profiles":[
+         {
+            "network":"github",
+            "username":"wadajun",
+            "url":"http://github.com/wadajun"
+         }
       ]
-    },
-    {
-      "name": "Gaming",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Anime",
-      "keywords": [
-      ]
-    },    
-    {
-      "name": "Food",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Travel",
-      "keywords": [
-      ]
-    },
-  ],
-  "skills": [
-    {
-      "name": "Bilingual",
-      "level": "",
-      "keywords": [
-        "Japanese",
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Word",
-        "Excel",
-        "PowerPoint",
-        "Access",
-      ]
-    },
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Java",
-      ]
-    },
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "2020",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2016",
-      "endDate": "2018",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Kyoto University, Kyoto, JP",
-      "area": "Information Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2017",
-      "endDate": "2018",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Office of Admissions",
-      "position": "Admissions Assistant",
-      "website": "",
-      "startDate": "2019-10-22",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Support prospective students and parents throughout admissions process",
-        "Analyze files and resolve discrepancies in a timely manner",
-        "Respond to student questions regarding academic requirements and programs",
-      ]
-    },
-    {
-      "company": "Okada Hitoshi CPA",
-      "position": "Bookkeeper",
-      "website": "",
-      "startDate": "2019-05",
-      "endDate": "2019-12",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "Sushi Sho Hawaii",
-      "position": "Server",
-      "website": "",
-      "startDate": "2019-01",
-      "endDate": "2019-08",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "International Marketplace",
-      "position": "Customer Service Representative",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2017-06",
-      "endDate": "2017-09",
-      "startDate": "2018-10",
-      "endDate": "2019-01",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "Gokoku Sushi",
-      "position": "Minor Chef",
-      "website": "",
-      "startDate": "2014-10",
-      "endDate": "2016-02",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Music",
+         "keywords":[
+            "Arduino",
+            "TI MSP430"
+         ]
+      },
+      {
+         "name":"Gaming",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Anime",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Food",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Travel",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Bilingual",
+         "level":"",
+         "keywords":[
+            "Japanese"
+         ]
+      },
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Access"
+         ]
+      },
+      {
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[
+            "Java"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Spring, 2022)",
+         "studyType":"B.B.A.",
+         "startDate":"2020",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      },
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Information Computer Science",
+         "studyType":"B.S.",
+         "startDate":"2016",
+         "endDate":"2018",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      },
+      {
+         "institution":"Kyoto University, Kyoto, JP",
+         "area":"Information Computer Science",
+         "studyType":"B.S.",
+         "startDate":"2017",
+         "endDate":"2018",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"UH Manoa Office of Admissions",
+         "position":"Admissions Assistant",
+         "website":"",
+         "startDate":"2019-10-22",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Support prospective students and parents throughout admissions process",
+            "Analyze files and resolve discrepancies in a timely manner",
+            "Respond to student questions regarding academic requirements and programs"
+         ]
+      },
+      {
+         "company":"Okada Hitoshi CPA",
+         "position":"Bookkeeper",
+         "website":"",
+         "startDate":"2019-05",
+         "endDate":"2019-12",
+         "summary":"",
+         "highlights":[
+            
+         ]
+      },
+      {
+         "company":"Sushi Sho Hawaii",
+         "position":"Server",
+         "website":"",
+         "startDate":"2019-01",
+         "endDate":"2019-08",
+         "summary":"",
+         "highlights":[
+            
+         ]
+      },
+      {
+         "company":"International Marketplace",
+         "position":"Customer Service Representative",
+         "website":"http://www.hawaii.edu/its/",
+         "startDate":"2017-06",
+         "endDate":"2017-09",
+         "startDate":"2018-10",
+         "endDate":"2019-01",
+         "summary":"",
+         "highlights":[
+            
+         ]
+      },
+      {
+         "company":"Gokoku Sushi",
+         "position":"Minor Chef",
+         "website":"",
+         "startDate":"2014-10",
+         "endDate":"2016-02",
+         "summary":"",
+         "highlights":[
+            
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
