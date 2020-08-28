@@ -26,8 +26,7 @@
       {
          "name":"Music",
          "keywords":[
-            "Arduino",
-            "TI MSP430"
+            
          ]
       },
       {
@@ -155,7 +154,7 @@
       {
          "company":"International Marketplace",
          "position":"Customer Service Representative",
-         "website":"http://www.hawaii.edu/its/",
+         "website":",
          "startDate":"2017-06",
          "endDate":"2017-09",
          "startDate":"2018-10",
