@@ -15,7 +15,7 @@ The design of my Assignment 3 will have my four different types of products (Sop
 
 I am thinking of adding a feature will it will show how many products are currently in the user's shopping cart, and this should be updated each time a user confirms the amount of products they desire. The number and shopping cart will be located in the navigation bar that I will be setting up.
 
-**Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.**
+**Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used you will use to manage the shopping cart data and how they will be used in a session.**
 
 My codes will be based off of the example Professor Port has provided us in <a href="https://dport96.github.io/ITM352/morea/180.Assignment3/reading-code-examples.html">Assignment 3 Code Examples</a> to manage my shopping cart. In this code, I plan to create a session where I am able to store the data that comes from my product page and will be sent to my shopping cart page as a JSON. 
 
