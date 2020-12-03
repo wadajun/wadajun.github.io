@@ -2,9 +2,10 @@
 layout: essay
 type: essay
 title: Checkpoint Assignment 3
-date: 2020-12-1
+date: 2020-12-01
 labels:
   - Assignment 3 
+  - Checkpoint
   - ITM352
 ---
 **Show what each page will look like. The pages do not have to be “functional” but the design should clear.**
