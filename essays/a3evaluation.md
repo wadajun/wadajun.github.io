@@ -22,7 +22,7 @@ The biggest project risk for me is working on sending an email. At first, I was 
 
 **4. What is your assessment of the overall quality of the system?**
 
-Overall I feel like my Assignment is not up to par and does not meet the requirements that was asked for. Unfortunately, I have not used enough time to work on the Assignment. 
+Overall I feel like my Assignment is not up to par and does not meet the requirements that was asked for. Unfortunately, I have not spent enough time to work on the Assignment. 
 
 **5. What is needed before this system can be placed into operation?**
 
